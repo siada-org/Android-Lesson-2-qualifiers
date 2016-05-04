@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Заголовок окна ландшафтной ориентации экрана-->
+        <string name="orientation_header">Ландшафтная ориентация экрана</string>
+    <!--Кнопки-->
+        <string name="button_1">Кнопка 1 ландшафтная</string>
+        <string name="button_2">Кнопка 2 ландшафтная</string>
+        <string name="button_3">Кнопка 3 ландшафтная</string>
+        <string name="button_4">Кнопка 4 ландшафтная</string>
+    <!--/Кнопки-->
+</resources>

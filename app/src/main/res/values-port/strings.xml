@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Заголовок окна портретной ориентации экрана-->
+    <string name="orientation_header">Портретная ориентация экрана</string>
+    <!--Кнопки-->
+    <string name="button_1">Кнопка 1 портретная</string>
+    <string name="button_2">Кнопка 2 портретная</string>
+    <string name="button_3">Кнопка 3 портретная</string>
+    <string name="button_4">Кнопка 4 портретная</string>
+    <!--/Кнопки-->
+</resources>
