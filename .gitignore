@@ -13,14 +13,12 @@ hs_err_pid*
 
 #Android Studio project files
 .idea/*
-*.iml
-local.properties
 
-#Gradle files
-#.gradle/*
-#gradle/*
-#build.gradle
-#gradlew
-#settings.gradle
-#gradle.properties
-#gradlew.bat
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
